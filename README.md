@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Chapter-1/UPC_logo_transparente.png" alt="UPC" width="110">
+  <img src="assets/Chapter-1/UPC_logo_transparente.png" alt="UPC" width="120">
 </p>
 
 <div align="center">
@@ -333,7 +333,7 @@ El Lean UX Canvas sintetiza los principales elementos del modelo de aprendizaje 
 > **Artefacto:** Lean UX Canvas
 
 <p align="center">
-  <img src="assets/chapter-1/Lean_Ux_Canvas.png" alt="Lean UX Canvas de SolarPulse IoT" width="800px">
+  <img src="assets/Chapter-1/Lean_Ux_Canvas.png" alt="Lean UX Canvas de SolarPulse IoT" width="800px">
 </p>
 
 ---
@@ -407,48 +407,6 @@ Propuesta de Valor / Beneficio Buscado: Certeza y acompañamiento técnico antes
 - Consumos: Capacidad de registrar patrones de consumo típicos de viviendas (curvas de carga históricas) para ejecutar simulaciones de dimensionamiento.
 - Paneles: Catálogo normalizado de especificaciones de hardware comercial (marca, modelo, potencia nominal de fábrica y coeficientes de degradación térmica) para contrastar alternativas del mercado.
 - Instalaciones: Parámetros de factores de emisión locales ($kgCO_2/kWh$) para calcular equivalencias tangibles (árboles equivalentes plantados y emisiones evitadas) como factor motivacional de adopción.
-
-# CAPÍTULO II: RECOPILACIÓN Y ANÁLISIS DE REQUISITOS
-
-## 2.1. Entrevistas
-
-### 2.1.1 Diseño de entrevistas
-
-### 2.1.2 Registro de entrevistas
-
-### 2.1.3 Análisis de entrevistas
-
-## 2.2. Requisitos
-
-#### Requisitos funcionales
-
-#### Requisitos No funcionales
-
-# CAPÍTULO III: DISEÑO DE BASE DE DATOS
-
-## 3.1. Entidades
-
-## 3.1. Atributos
-
-## 3.1. Enfoque relacional
-
-### 3.1.1 Diagrama entidad-relación lógico
-
-# CAPÍTULO IV: IMPLEMENTACIÓN DE BASE DE DATOS
-
-## 4.1. Sistemas de gestión de base de datos
-
-### 4.1.1. Evaluación y elección del sistema de gestión de base de datos relacional
-
-## 4.2. Diagramas de datos
-
-### 4.2.1 Diagrama entidad-relación físico
-
-# Conclusiones
-
-# BIBLIOGRAFÍA
-
-# ANEXOS
 
 
 

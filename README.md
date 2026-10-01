@@ -129,7 +129,7 @@ Las entrevistas fueron registradas en video y se organizaron según el segmento 
 *   **Duración:** [rellenar campo]
 *   **Link de Video:** [Entrevista]()
 *   **Screenshot:**
-  ![Ruta_screenshot_entrevista_1](assets/Chapter-2/Screenshot_entrevista.png)
+  ![Ruta_screenshot_entrevista_2](assets/Chapter-2/Screenshot_entrevista.png)
 *   **Resumen descriptivo:** [rellenar campo]
 
 
@@ -154,7 +154,7 @@ Las entrevistas fueron registradas en video y se organizaron según el segmento 
 *   **Duración:** [rellenar campo]
 *   **Link de Video:** [Entrevista]()
 *   **Screenshot:**
-  ![Ruta_screenshot_entrevista_1](assets/Chapter-2/Screenshot_entrevista.png)
+  ![Ruta_screenshot_entrevista_2](assets/Chapter-2/Screenshot_entrevista.png)
 *   **Resumen descriptivo:** [rellenar campo]
 
 ##### Segmento Objetivo 3: Hogares en Transición Energética (Compradores Potenciales)
@@ -178,7 +178,7 @@ Las entrevistas fueron registradas en video y se organizaron según el segmento 
 *   **Duración:** [rellenar campo]
 *   **Link de Video:** [Entrevista]()
 *   **Screenshot:**
-  ![Ruta_screenshot_entrevista_1](assets/Chapter-2/Screenshot_entrevista.png)
+  ![Ruta_screenshot_entrevista_2](assets/Chapter-2/Screenshot_entrevista.png)
 *   **Resumen descriptivo:** [rellenar campo]
 
 

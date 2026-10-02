@@ -58,6 +58,7 @@
                     <li>Juan Carlo, Quispe Vargas</li>
                     <li>José Alonso, Martínez Zeta</li>
                     <li>María Fernanda, Soto Vásquez</li>
+                    <li>Adriel Jose, Flores Masias</li>
                     </ul>
                   </td>
                   <td>Desarrollo de nuestro diseño complementario de la base de datos de SolarPulse IoT en base a las entrevistas obtenidas, se plantea el diseño del diagrama de entidad-relación lógico, diagrama de entidad-relación físico y se determina que software de base de datos vamos a usar</td>
@@ -129,8 +130,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | --- | --- | --- |
-| 7.c1. Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software. | **Navarro Flores, Renzo Jesus**<br>**TP1:** lorem ipsum.<br><br>**Miguel Alejandro, Bravo Catillo Rojo**<br>**TP1:** lorem ipsum.<br><br>**Juan Carlo, Quispe Vargas**<br>**TP1:** lorem ipsum.<br><br>**José Alonso, Martínez Zeta**<br>**TP1:** lorem ipsum.<br><br>**María Fernanda, Soto Vásquez**<br>**TP1:** . | **TP1:** lorem ipsum. |
-| 7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software. | **Navarro Flores, Renzo Jesus**<br>**TP1:** Lorem ipsum.<br><br>**Miguel Alejandro, Bravo Catillo Rojo**<br>**TP1:** lorem ipsum.<br><br>**Juan Carlo, Quispe Vargas**<br>**TP1:** lorem ipsum.<br><br>**José Alonso, Martínez Zeta**<br>**TP1:** lorem ipsum.<br><br>**María Fernanda, Soto Vásquez**<br>**TP1:** lorem ipsum. | **TP1:** lorem ipsum. |
+| 7.c1. Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software. | **Navarro Flores, Renzo Jesus**<br>**TP1:** lorem ipsum.<br><br>**Miguel Alejandro, Bravo Catillo Rojo**<br>**TP1:** lorem ipsum.<br><br>**Juan Carlo, Quispe Vargas**<br>**TP1:** lorem ipsum.<br><br>**José Alonso, Martínez Zeta**<br>**TP1:** lorem ipsum.<br><br>**María Fernanda, Soto Vásquez**<br>**TP1:** lorem ipsum. <br><br>**Adriel Jose, Flores Masias**<br>**TP1:** lorem ipsum. | **TP1:** lorem ipsum. |
+| 7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software. | **Navarro Flores, Renzo Jesus**<br>**TP1:** Lorem ipsum.<br><br>**Miguel Alejandro, Bravo Catillo Rojo**<br>**TP1:** lorem ipsum.<br><br>**Juan Carlo, Quispe Vargas**<br>**TP1:** lorem ipsum.<br><br>**José Alonso, Martínez Zeta**<br>**TP1:** lorem ipsum.<br><br>**María Fernanda, Soto Vásquez**<br>**TP1:** lorem ipsum. <br><br>**Adriel Jose, Flores Masias**<br>**TP1:** lorem ipsum. | **TP1:** lorem ipsum. |
 
 <div style="page-break-before: always;"></div>
 
@@ -219,6 +220,20 @@ Somos “Heliosync Technologie” una Startup de base tecnológica especializada
     </td>
     <td>
       <b>Codigo:</b> [Codigo integrante 5]<br>
+      <b>Carrera:</b> Ingenieria de Software<br>
+      [Descripccion breve del las habilidades y aportes del integrante]
+  </tr>
+
+   <tr>
+    <th colsan="2">Flores Masias, Adriel Jose</th>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="assets/Chapter-1/integrante6.png" alt="Fotografia integrante 6" width="300px">
+    </td>
+    <td>
+      <b>Codigo:</b> U202313231 <br>
       <b>Carrera:</b> Ingenieria de Software<br>
       [Descripccion breve del las habilidades y aportes del integrante]
   </tr>
